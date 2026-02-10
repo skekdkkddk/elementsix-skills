@@ -1,5 +1,11 @@
 # 🎬 Seedance Storyboard - ElementSix Skills
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/elementsix/elementsix-skills?style=for-the-badge&logo=github&color=ff6b6b" alt="stars" />
+  <img src="https://img.shields.io/github/forks/elementsix/elementsix-skills?style=for-the-badge&logo=github&color=4ecdc4" alt="forks" />
+  <img src="https://img.shields.io/github/license/elementsix/elementsix-skills?style=for-the-badge&color=45b7d1" alt="license" />
+</p>
+
 将任何想法转换成即梦 Seedance 2.0 专业分镜提示词的 Claude Code Skill。
 
 ## 📖 简介
@@ -114,3 +120,13 @@ elementsix-skills/
 ## 📄 许可证
 
 MIT License
+
+---
+
+## ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/#elementsix/elementsix-skills&Date">
+    <img src="https://api.star-history.com/svg?repos=elementsix/elementsix-skills&type=Date" alt="Star History" width="800" />
+  </a>
+</p>
